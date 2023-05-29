@@ -6,16 +6,16 @@ An easy-to-use desktop application for applying watermarks over images.
 Clone the git repository into your local storage (git clone URL).
   
 <h4>Step2:</h4>
-Open the app by running the following command: python main.py
+Open the app by running the following command: python main.py.
   
 <h4>Step3:</h4>
-Select the image, the watermark and the positioning option
+Select the image, the watermark and the positioning option.
   
 <h4>Step4:</h4>
-Click "Apply Watermark"
+Click "Apply Watermark".
   
 <h4>Step5:</h4>
-Review the result and save OR retry.
+Review the result and choose to "Save" OR "Retry".
   
 <h2>Features</h2>
 1. Multiple image formats (png/ jpg/ jpeg)</br></br>
